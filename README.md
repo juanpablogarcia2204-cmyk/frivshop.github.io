@@ -90,4 +90,4 @@ footer { text-align: center; padding: 20px; background: #020617; margin-top: 40p
     <p>© 2026 Tienda Friv Gamer - Proyecto educativo</p>
   </footer>
 </body>
-</index.html>
+index.html
